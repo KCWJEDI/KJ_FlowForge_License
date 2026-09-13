@@ -1,9 +1,32 @@
 {
   "version": 1,
   "keys": [
-    { "id": "Admin", "hash": "65c4a26583c3b6566b7da9fb63a9a62f12fc49f3e9b18bf7f73c3462e5a2fac0", "owner": "KCWJEDI", "createdAt": "2026-08-26", "role": "admin" },
-    { "id": "User1", "hash": "016d78bb875cb16d80235bea8f6aadfb90e23cd6fa0e757f845f8995290879a4", "owner": "KCWUser1", "createdAt": "2026-09-02" },
-    { "id": "YS", "hash": "8625ab1560f4afffe321d9deaa8cf74adea97339b37d9cf22f8cb4e6850abcb5", "owner": "윤서", "expiresAt": "2026-10-30", "createdAt": "2026-09-09" }
+    {
+      "id": "QALicense",
+      "hash": "ca19a98027d5d7f4d828a5e74983475ea51fd5be59c173f77854763d876c6492",
+      "owner": "qa"
+    }
   ],
-  "revoked": ["kcwjeditestkey0167", "test1", "v23gf", "efef", "3f3ff33f", "Test1"]
+  "gitCredentials": {
+    "QALicense": {
+      "github.com/kcwjedi/kj_flowforge_config": {
+        "v": 1,
+        "alg": "pbkdf2-sha256+aes-256-cbc+hmac-sha256",
+        "iter": 100000,
+        "salt": "uUbSESGvsvCX/Dc4WcyvVQ==",
+        "iv": "p0ZnOM1jY8hXnrXm2HwMlg==",
+        "ct": "F9QIzWZkgtEr/aWk62J5FK9COAZxBmc31w4UCXylfgoX3bX4Cvcf1oeHgLa+PIh75xanQNzi/CFSx/VH+tTHiavUJmqxgeqooAYNBUcqnnc3t66dUYZ0YOOOoRXxk7Q4BtdHXTOaTlesLkPaOsFDAPobJZE8wUXvFH1fs1qwNmyJ5MwvPuSHBarHXXwQsjvX6GeXrS9u4D+z4RpnZn61GQDl6IprvTq+QeaBLpIujkxYA5UvjttuQOUvWRB52h2pfgcoEiIotJ0djrehXWEjJxjGWG1EzD9fhoq+Z0wX7lUZwqwbPAU9mKfWJCEjY1vFENizkVy2psY736CLuWvReyqN0hIzrgFOLvgJFAqIBgf2Ecyj0Hzmxj0VBA34OLOb+5gakXwa2uNPcC+PxxWaKwHbERRQw5mgoy1BI3eFDOIE+mKV+p78K6d+hfh+imWzc9I39ANse+KtOncDFVHofxzpnC+STs80eClcc1nDaNY2Uu/WfiRtzeU5Jy9+ChIl4jNVfY/Yl6iKBwgs+IhouQ==",
+        "mac": "JBpgAjXTkcJJynwWZN/gbxZxXQEla1YsiwoG5AQ5OpU="
+      },
+      "github.com/kcwjedi/kj_flowforge_testgit": {
+        "v": 1,
+        "alg": "pbkdf2-sha256+aes-256-cbc+hmac-sha256",
+        "iter": 100000,
+        "salt": "RuP1DVwaHzw+3iuYd+gHIw==",
+        "iv": "lJ/QpvTvLyuwtH3qZET/zQ==",
+        "ct": "3mHByvHbvS1+rg4ncyIzWsI5JNpqo66wvAUFfBolgh1NTxwIgOUmFfTqMy4KGX8bvOA/Z1viCVw9ZDPOwrOEFhbWXs7OWeoZRhVi4nsKvzkVF3Vruf37TUN22fi+gHI53mO/47vRmPbT3kB9BTSpDDoNGiQzCsvm2a+Zqkwa9mBJX6efDYm9aVHkzxCrHWuRjflRp8/K2zL5abgiDh7ZieyOD7+4+40xmQctcVyoCoJeQmqdf9iCr7I9J6Y4glSxmZzXgO39xCXnxuEaBo93STvHSOFxso5KLaOvjM7Av/XAfhi5dSdj4nkD4NaTxy8uG/E1ePKw2CE0Yor4F8L/OAfDGllROYKlC69kj4DS52pMJON5KYHb86WPEME5c0LhNmlcPn040mqsx068780U47zoQCWM/X6Q8Qv7Kl4lPrxFZONTSolqXX3zkEcWFwfNig0Yaq9cYLbngN061RymNlr3d4zAP0g6C9e6gCUE16A1FW+cuSwPCjykAzcP+6YrWJp/G/jVbeS+b8fFLPRHQg==",
+        "mac": "YJ9W5qr+ZF8VTSfrGuWyq2kaM6c7KaQ5MMUvqtPq1J0="
+      }
+    }
+  }
 }
