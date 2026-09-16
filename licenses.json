@@ -1,9 +1,7 @@
 ﻿{
   "version": 1,
   "keys": [
-    { "id": "Admin", "hash": "e3346a906137fc5749c309a6f5aa980a95923bbc95002fbfc24de4e8cf316e62", "owner": "KCWJEDI", "createdAt": "2026-09-13", "role": "admin" },
-    { "id": "Test", "hash": "d5f34e5533aa34db134130b5cc7bd68222f3e7b8e28651cc733242ae617d981d", "owner": "TK", "expiresAt": "2026-10-23", "createdAt": "2026-09-13" },
-    { "id": "SYM", "hash": "8a0e27c049457dfe2fd77ba6f22cddffa3580b59aa82ec67e0c6f7602233a32d", "owner": "영민이형", "expiresAt": "2026-10-24", "createdAt": "2026-09-13" }
+    { "id": "Admin", "hash": "e3346a906137fc5749c309a6f5aa980a95923bbc95002fbfc24de4e8cf316e62", "owner": "KCWJEDI", "createdAt": "2026-09-13", "role": "admin" }
   ],
   "gitCredentials": {
     "Admin": {
