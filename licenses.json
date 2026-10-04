@@ -1,10 +1,7 @@
 ﻿{
   "version": 1,
   "keys": [
-    { "id": "Admin", "hash": "e3346a906137fc5749c309a6f5aa980a95923bbc95002fbfc24de4e8cf316e62", "owner": "KCWJEDI", "createdAt": "2026-09-13", "role": "admin" },
-    { "id": "KYJ", "hash": "ebc955e93ca26a0401c03a98cbb127e5aaf4862a2d521ca947a40d36a52e986a", "owner": "김영진", "expiresAt": "2026-12-31", "createdAt": "2026-09-16" },
-    { "id": "HJ", "hash": "ad0ec4f942cbacd1c36c8ec37dd07bfbf7ad43839d9384329bcbf0d39734d1d7", "owner": "혁진", "expiresAt": "2026-11-06", "createdAt": "2026-10-04" },
-    { "id": "Test", "hash": "8bc065be5bf404f2e4d5288b3469a17ac37192dfa132922b176adcc23df72a04", "owner": "ㄷㄹㄷㄹㄷ", "createdAt": "2026-10-05", "products": ["whisperai"] }
+    { "id": "Admin", "hash": "e3346a906137fc5749c309a6f5aa980a95923bbc95002fbfc24de4e8cf316e62", "owner": "KCWJEDI", "createdAt": "2026-09-13", "role": "admin" }
   ],
   "gitCredentials": {
     "Admin": {
