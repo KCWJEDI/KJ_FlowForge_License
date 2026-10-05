@@ -1,9 +1,7 @@
 ﻿{
   "version": 1,
   "keys": [
-    { "id": "Admin", "hash": "e3346a906137fc5749c309a6f5aa980a95923bbc95002fbfc24de4e8cf316e62", "owner": "KCWJEDI", "createdAt": "2026-09-13", "role": "admin" },
-    { "id": "345", "hash": "0ebddda5c87bb484b8bc31ca2341badcb1d63d82a23bd0b43a7608fdcc1403be", "owner": "24fg", "expiresAt": "2026-10-05 09:10", "createdAt": "2026-10-05", "products": ["flowforge", "whisperai"] },
-    { "id": "23f", "hash": "a88ac7d68b21b39fa386f7c4138193696f468d8d7a81508b63ab86b39ba00610", "owner": "24fgzwwef", "expiresAt": "2026-10-06 09:10", "createdAt": "2026-10-05", "products": ["flowforge"] }
+    { "id": "Admin", "hash": "e3346a906137fc5749c309a6f5aa980a95923bbc95002fbfc24de4e8cf316e62", "owner": "KCWJEDI", "createdAt": "2026-09-13", "role": "admin" }
   ],
   "gitCredentials": {
     "Admin": {
