@@ -1,8 +1,7 @@
 ﻿{
   "version": 1,
   "keys": [
-    { "id": "Admin", "hash": "e3346a906137fc5749c309a6f5aa980a95923bbc95002fbfc24de4e8cf316e62", "owner": "KCWJEDI", "createdAt": "2026-09-13", "role": "admin" },
-    { "id": "tte", "hash": "333828c6b3a69cc75a53086416fb3e6c97aae4ceb4c0fc52a46298f13d4d69ae", "owner": "v23v", "expiresAt": "2026-10-05 08:40", "createdAt": "2026-10-05", "products": ["whisperai"] }
+    { "id": "Admin", "hash": "e3346a906137fc5749c309a6f5aa980a95923bbc95002fbfc24de4e8cf316e62", "owner": "KCWJEDI", "createdAt": "2026-09-13", "role": "admin" }
   ],
   "gitCredentials": {
     "Admin": {
