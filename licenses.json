@@ -1,7 +1,7 @@
 ﻿{
   "version": 1,
   "keys": [
-    { "id": "Admin", "hash": "e3346a906137fc5749c309a6f5aa980a95923bbc95002fbfc24de4e8cf316e62", "owner": "KCWJEDI", "createdAt": "2026-09-13", "role": "admin" },
+    { "id": "Admin", "hash": "e3346a906137fc5749c309a6f5aa980a95923bbc95002fbfc24de4e8cf316e62", "owner": "KCWJEDI", "createdAt": "2026-09-13", "role": "admin", "group": "자동그룹" },
     { "id": "WhisperAI_kky", "hash": "f63c296aa771a62468fa782f90d5861d63a7397966cb61c7236430836d787d3d", "owner": "고경환", "expiresAt": "2026-12-24", "createdAt": "2026-10-05", "products": ["whisperai"] },
     { "id": "TestFlowKey", "hash": "779115b5e75fd93975c7439d20c026828233c36159dc81a8d5c502aed565ff33", "owner": "테스트플로우키", "expiresAt": "2026-11-05", "createdAt": "2026-10-06", "products": ["flowforge"] },
     { "id": "Testall", "hash": "921079dc4fa82e2b3eafc679db84fb46272197b1542f1e76457ed5f400cabf8c", "owner": "테스트올", "expiresAt": "2026-11-06", "createdAt": "2026-10-07", "products": ["flowforge", "whisperai"] }
