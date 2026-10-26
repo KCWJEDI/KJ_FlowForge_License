@@ -1,0 +1,4 @@
+# 로컬 백업/스크래치 파일은 커밋하지 않습니다.
+licenses.backup-*.json
+*.tmp
+
