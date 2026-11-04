@@ -1,7 +1,6 @@
 ﻿{
   "version": 1,
   "keys": [
-    { "id": "KCWJEDI", "owner": "김채원", "hash2": "pbkdf2-sha256$600000$MyOPA++ubhmNSyrZlN70GNGDnQMEgXT6vflpeRWH4nU=$GnBCpUgZizmiokhNn95/XMr290VxYp96zFj5W2i3wm4=", "createdAt": "2026-11-05", "role": "admin", "group": "테스트용", "products": ["flowforge", "whisperai"] }
   ],
   "gitCredentials": {
     "Test": {
