@@ -1,7 +1,8 @@
 ﻿{
   "version": 1,
   "keys": [
-    { "id": "KCJ", "owner": "김채원", "hash2": "pbkdf2-sha256$600000$SR0MHRe5nQrWdwYn/NVrzbZJFKH1As3/fVWNxxUkLrA=$VzFetMhcMoMvV6hgtEqqGDaqz1wTUGCBCqR36Gnk6n8=", "createdAt": "2026-11-05", "role": "admin", "group": "테스트용", "products": ["flowforge", "whisperai"] }
+    { "id": "KCJ", "owner": "김채원", "hash2": "pbkdf2-sha256$600000$SR0MHRe5nQrWdwYn/NVrzbZJFKH1As3/fVWNxxUkLrA=$VzFetMhcMoMvV6hgtEqqGDaqz1wTUGCBCqR36Gnk6n8=", "createdAt": "2026-11-05", "role": "admin", "group": "테스트용", "products": ["flowforge", "whisperai"] },
+    { "id": "KMobile", "owner": "김모바일", "hash2": "pbkdf2-sha256$600000$vI2ZjJqZfRk6fW9Vk86mCyv7qNFZKmz9XFKCeV/EwoE=$DOfntppDQNvViK+n/6zNSfUbRj0x9Zu2lWFXXOmuTiA=", "createdAt": "2026-11-05", "group": "테스트용", "products": ["flowforge", "whisperai"] }
   ],
   "gitCredentials": {
     "Test": {
