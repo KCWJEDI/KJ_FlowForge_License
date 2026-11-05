@@ -8,7 +8,8 @@
     { "id": "5555555awef", "owner": "555awef", "hash2": "pbkdf2-sha256$600000$0T3nbYCkCwHusmgfscqnGAreQdHXYNpO6xupUUwR+9U=$ruCEjbu1zIwFaJTZ4tIHzKW3b2OocbQfPXRxwUThSMY=", "createdAt": "2026-11-05", "group": "테스트용", "products": ["flowforge"] },
     { "id": "6666awef", "owner": "666awef", "hash2": "pbkdf2-sha256$600000$1AtKtG0bC1tlPOKaEJd2rOA+pvBWDEMfkLOn4XUgkh0=$0oPLd9H+9HUr7ZlGy19EfuD0wLULpSEYXjpjMhuyHHk=", "createdAt": "2026-11-05", "group": "테스트용", "products": ["flowforge"] },
     { "id": "7777awef", "owner": "77awef", "hash2": "pbkdf2-sha256$600000$zDTGtGvptoHY5yaC08vollOBIWbAE0Jf+8seY4E8hsA=$wp1yW/HlsViHhkj5nhy5kUVMEul+8k4fhaRTFHFDdg4=", "createdAt": "2026-11-05", "group": "테스트용", "products": ["flowforge"] },
-    { "id": "JSH", "owner": "정세환", "hash2": "pbkdf2-sha256$600000$I8n7E9XheogzNh0IWwwlU+m75r7eyNfW6sA0sozMA2I=$SmRWlDdPE2IOW4+1//sVZceAIX0+JZx75kPyzwxjGUE=", "createdAt": "2026-11-05", "group": "(그룹 없음)", "products": ["flowforge"] }
+    { "id": "JSH", "owner": "정세환", "hash2": "pbkdf2-sha256$600000$I8n7E9XheogzNh0IWwwlU+m75r7eyNfW6sA0sozMA2I=$SmRWlDdPE2IOW4+1//sVZceAIX0+JZx75kPyzwxjGUE=", "createdAt": "2026-11-05", "group": "(그룹 없음)", "products": ["flowforge"] },
+    { "id": "SYM", "owner": "송영민", "hash2": "pbkdf2-sha256$600000$0J+dUQtryATmfaTlzdMiDdhxPIktKctQbIlzNok1SPI=$x+IuXhGAkMgvpnjhj+Q3kgfL/+9oshiFPWIvqe2ccHY=", "createdAt": "2026-11-06", "group": "(그룹 없음)", "products": ["flowforge"] }
   ],
   "gitCredentials": {
     "Test": {
